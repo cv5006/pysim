@@ -130,3 +130,11 @@ dmypy.json
 
 
 .vscode
+
+
+# Data and result files
+*/data/
+*/res/
+
+# minimal env for pyinsatller
+/data_viewer/minenv/
